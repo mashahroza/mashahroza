@@ -31,7 +31,11 @@ I am a beginner frontend developer. I'm on my way to learning more about softwar
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/mashahroza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mariia-hroza-0825b7245" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/mashahroza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    </a> <a href="https://www.linkedin.com/in/mariia-hroza-0825b7245" target="_blank" rel="noreferrer"><img         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+  and 
+    <a href=" https://t.me/hrozamasha" target="_blank" rel="noreferrer"><img src="http://www.w3.org/2000/svg" width="32" height="32" />
+</p>
 
 ### Badges
 
